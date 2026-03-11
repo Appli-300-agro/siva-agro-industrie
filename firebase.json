@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "siva-agro-industrie",
+    "site": "siva-agro-industrie-0two1",
     "public": "dist",
     "ignore": [
       "firebase.json",
